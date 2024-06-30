@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/mlynar">
+        <file>fight3.wav</file>
+        <file>bushu.wav</file>
+        <file>wenhou.wav</file>
+        <file>fight2.wav</file>
+        <file>fight1.wav</file>
+        <file>baodao.wav</file>
+        <file>interact.gif</file>
+        <file>ldle.gif</file>
+        <file>die.gif</file>
+        <file>move.gif</file>
+    </qresource>
+</RCC>

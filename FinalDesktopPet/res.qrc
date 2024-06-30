@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res/icons8-add-new-50.png</file>
+        <file>res/icons8-delete-50.png</file>
+        <file>res/icons8-edit-50.png</file>
+        <file>res/icons8-open-64.png</file>
+        <file>res/add_float.png</file>
+        <file>res/delete_float.png</file>
+        <file>res/edit_float.png</file>
+        <file>res/open_float.png</file>
+        <file>res/add_select.png</file>
+        <file>res/delete_select.png</file>
+        <file>res/edit_select.png</file>
+        <file>res/open_select.png</file>
+        <file>res/eat.png</file>
+        <file>res/play.png</file>
+        <file>res/sleep.png</file>
+        <file>res/study.png</file>
+        <file>res/work.png</file>
+    </qresource>
+    <qresource prefix="/bg"/>
+    <qresource prefix="/button">
+        <file>ddl_1.png</file>
+        <file>ddl_2.png</file>
+        <file>gal_1.png</file>
+        <file>gal_2.png</file>
+        <file>plus_1.png</file>
+        <file>plus_2.png</file>
+        <file>sub_1.png</file>
+        <file>sub_2.png</file>
+        <file>timetable_1.png</file>
+        <file>timetable_2.png</file>
+        <file>tool_1.png</file>
+        <file>tool_2.png</file>
+        <file>change_1.png</file>
+        <file>change_2.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>role.png</file>
+        <file>logo.jpg</file>
+        <file>entbackground.jpg</file>
+        <file>idle.png</file>
+        <file>p01.jpg</file>
+    </qresource>
+</RCC>
